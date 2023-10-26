@@ -22,7 +22,7 @@
                 <span class="poppins text-[#00A40D]">Developer</span>
             </h2>
             <p class="text-base sm:text-lg md:text-xl">
-                My <span class="text-[#00A40D]">favorite tech</span> includes HTML, CSS, JavaScript, JQuery, TailwindCSS and Bootstrap!
+                My <span class="text-[#00A40D]">favorite tech</span> includes HTML, CSS, JavaScript, React, TailwindCSS!
             </p>
             <a href="https://github.com/warlleyrocha" target="_blank" class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950 cursor-pointer">
                 <div class="absolute top-0 right-full w-full h-full bg-[#00A40D] opacity-20 group-hover:translate-x-full z-0 duration-200"/>
@@ -30,7 +30,7 @@
             </a>
         </div>
         <div class="relative shadow-2xl grid place-items-center">
-            <img src={"images/profile.png"} alt="Profile image" class="object-cover z-[2] max-h-[70vh]">
+            <img src={"images/image0.png"} alt="Profile image" class="object-cover z-[2] max-h-[70vh]">
         </div>       
     </section>
     
