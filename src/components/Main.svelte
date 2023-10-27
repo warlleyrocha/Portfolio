@@ -3,7 +3,7 @@
 
     let steps = [
         {name: 'Núcleo Corp', icon: 'fa-solid fa-record-vinyl', href: 'https://warlleyrocha.github.io/NucleoCorp/'},
-        {name: 'Maisa Alves - Terapias Holísticas (soon)', icon: 'fa-solid fa-heart-circle-plus', href:''},
+        {name: 'Maisa Alves - Terapias Holísticas', icon: 'fa-solid fa-heart-circle-plus', href:'https://maisa-alves-terapias-integrativas.vercel.app/'},
         {name: 'Personal Page', icon: 'fa-solid fa-user', href:''},
         ];
 
@@ -43,16 +43,13 @@
                 Curious to <span class="poppins text-[#00A40D]">see</span> my work?
             </h3>
         </div>
-        <a href="#" target="_blank" class="mx-auto px-4 py-2 rounded-md border border-solid border-white flex items-center gap-2 -mb-4 sm:-mb-0 -mt-10 hover:border-[#00A40D]">
-            <i class="fa-regular fa-circle-play"></i>
-            <p>Watch the video</p>
-        </a>
+        
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
             <Step step={steps[0]}>
-                <p>Official website of the Núcleo Corporation record label, developed with <strong class="text-[#00A40D]">HTML, CSS and Tailwind CSS.</strong></p>
+                <p>Official website of the Núcleo Corporation record label, developed with <strong class="text-[#00A40D]">React and Tailwind CSS</strong></p>
             </Step>
             <Step step={steps[1]}>
-                <p>Professional website for holistic therapies developed with <strong class="text-[#00A40D]">Wordpress CMS</strong></p>
+                <p>Website template for integrative therapies developed with <strong class="text-[#00A40D]">Bootstrap</strong></p>
             </Step>
             <Step step={steps[2]}>
                 <p>It's the page you're on right now! Developed with <strong class="text-[#00A40D]">Svelte and Tailwind CSS</strong></p>
