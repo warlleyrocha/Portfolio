@@ -2,9 +2,9 @@
     import Step from "./Step.svelte";
 
     let steps = [
-        {name: 'Núcleo Corp (soon)', icon: 'fa-solid fa-record-vinyl', href: 'https://warlleyrocha.github.io/NucleoCorp/'},
-        {name: 'Maisa Alves - Terapias Holísticas (soon)', icon: 'fa-solid fa-heart-circle-plus'},
-        {name: 'Personal Page', icon: 'fa-solid fa-user'},
+        {name: 'Núcleo Corp', icon: 'fa-solid fa-record-vinyl', href: 'https://warlleyrocha.github.io/NucleoCorp/'},
+        {name: 'Maisa Alves - Terapias Holísticas (soon)', icon: 'fa-solid fa-heart-circle-plus', href:''},
+        {name: 'Personal Page', icon: 'fa-solid fa-user', href:''},
         ];
 
         let benefits = [
