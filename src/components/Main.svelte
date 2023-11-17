@@ -8,9 +8,9 @@
         ];
 
         let benefits = [
-            {name: 'a self taught developer', description: 'I taught myself to code using free online resources and absolutely fell in love with the creativity and problem solving that is involved in developing and engineering innovative new online experiences. Starting of with JavaScript, HTML & CSS and evolving my knowledge base to include JavaScript frameworks, backend programming, design, cloud services and much much more.'},
-            {name: 'a product design & UX finatic', description: 'I taught myself to code using free online resources and absolutely fell in love with the creativity and problem solving that is involved in developing and engineering innovative new online experiences. Starting of with JavaScript, HTML & CSS and evolving my knowledge base to include JavaScript frameworks, backend programming, design, cloud services and much much more.'},
-            {name: 'an excellent communicator', description: 'I taught myself to code using free online resources and absolutely fell in love with the creativity and problem solving that is involved in developing and engineering innovative new online experiences. Starting of with JavaScript, HTML & CSS and evolving my knowledge base to include JavaScript frameworks, backend programming, design, cloud services and much much more.'},
+            {name: 'a self taught developer', description: 'The technologies I use today, I learned on my own through forums, documentation, courses, and free internet resources.'},
+            {name: 'clean code developer', description: 'I like to organize my code in a way that adopts a consistent pattern between tags and their instances, using more precise logical structures and fewer lines. This aims to optimize the maintenance process and the addition of new functions, making it more practical and dynamic.'},
+            {name: '', description: ''},
         ]
 </script>
 
